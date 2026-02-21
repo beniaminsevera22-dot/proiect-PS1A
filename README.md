@@ -1,2 +1,2 @@
-# proest-PS1A
+# proiect-PS1A
 Sistem de irigare bazat pe vreme
